@@ -4,7 +4,7 @@
 ?>
 <main>
     <div id='title-container'>
-        <h1>Blog Codar</h1>
+        <h1> Code</h1>
         <p>O seu blog de programação</p>
     </div>
     <div id="posts-container">
