@@ -15,4 +15,4 @@
 ## 💻 Linguagens Utilizadas:
 
 * PHP
-* HTML
+* CSS
